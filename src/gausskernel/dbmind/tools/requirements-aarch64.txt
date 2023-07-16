@@ -1,5 +1,5 @@
 ## For DBMind-core ##
-cryptography==2.5  # for paramiko on openEuler
+cryptography==41.0.2  # for paramiko on openEuler
 paramiko==2.7.2
 numpy==1.16.5  # for openEuler aarch64
 scipy==1.6.0
