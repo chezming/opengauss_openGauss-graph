@@ -1,0 +1,3 @@
+[submodule "opengauss_openGauss-DBMind"]
+	path = opengauss_openGauss-DBMind
+	url = https://github.com/chezming/opengauss_openGauss-DBMind
